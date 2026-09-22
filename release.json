@@ -7,29 +7,29 @@
    "ARCH": "amd64",
    "ArchiveName": "doxa_v1.0.2_darwin_amd64.tar.gz",
    "OS": "darwin",
-   "SHA256": "ebd19b7571b5a5ee8fd1aae9bf19ed13b51c5e87051c4dd8119b7a2856ddb38c",
-   "URL": "https://github.com/liturgiko/doxa/releases/download/v1.0.2/doxa_v1.0.2_darwin_amd64.tar.gz"
+   "SHA256": "920b76b31f4779efdf08c49fedd437e35a20ac2c02b26bb9ed1a214f77a6fc58",
+   "URL": "https://github.com/OCMC-Translations/server/releases/download/v1.0.2/doxa_v1.0.2_darwin_amd64.tar.gz"
   },
   "darwin/arm64": {
    "ARCH": "arm64",
    "ArchiveName": "doxa_v1.0.2_darwin_arm64.tar.gz",
    "OS": "darwin",
-   "SHA256": "12883db9b75a6f2ed8183df213747a575937ecc892cce5c84ee726fa2b998ad0",
-   "URL": "https://github.com/liturgiko/doxa/releases/download/v1.0.2/doxa_v1.0.2_darwin_arm64.tar.gz"
+   "SHA256": "dbac941294f7e405bbf883fec659dd72cc1bbd661fdec6ee0d1ffcbe8f84ec8a",
+   "URL": "https://github.com/OCMC-Translations/server/releases/download/v1.0.2/doxa_v1.0.2_darwin_arm64.tar.gz"
   },
   "windows/amd64": {
    "ARCH": "amd64",
    "ArchiveName": "doxa_v1.0.2_windows_amd64.zip",
    "OS": "windows",
-   "SHA256": "f99c307d70a677f0c6a4d88feb8bbf0c027f80b4a3ef7c5618365fef4d2fcec2",
-   "URL": "https://github.com/liturgiko/doxa/releases/download/v1.0.2/doxa_v1.0.2_windows_amd64.zip"
+   "SHA256": "5dcecc7a325001d0643dbf3f7177598d34a401c1bf62c5af6f0f3fc3159afefc",
+   "URL": "https://github.com/OCMC-Translations/server/releases/download/v1.0.2/doxa_v1.0.2_windows_amd64.zip"
   },
   "windows/arm64": {
    "ARCH": "arm64",
    "ArchiveName": "doxa_v1.0.2_windows_arm64.zip",
    "OS": "windows",
-   "SHA256": "21ba08d9f2a5e6f3735147876f0ea76ab956633f7ee226516b0e4943211cf2a1",
-   "URL": "https://github.com/liturgiko/doxa/releases/download/v1.0.2/doxa_v1.0.2_windows_arm64.zip"
+   "SHA256": "d53c1e2c502988e0fdf159972784c2a15ad1803bdc824f9cb1d27fa73822a098",
+   "URL": "https://github.com/OCMC-Translations/server/releases/download/v1.0.2/doxa_v1.0.2_windows_arm64.zip"
   }
  }
 }
